@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-image {
+    height: 60px;
+    width: 140px;
+}
+
+
+.service-bg-container {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.service-main-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+    color: #183b56;
+
+}
+
+.service-description {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #616c7c;
+
+}
+
+
+
+.service-label-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 500;
+    color: #1f2933;
+
+}
+
+.service-label-description {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #7b8794;
+
+}
+
+.service-image {
+    height: 90px;
+    width: 100px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.product-card {
+    border-radius: 15px;
+    padding: 20px;
+    height: 300px;
+}
+
+.card-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.product-card {
+    border-radius: 15px;
+    padding: 20px;
+    height: 300px;
+}
+
+.product-card-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.product-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.button {
+    border-style: none;
+    background-color: #ffffff;
+    color: #ff9f00;
+    border-radius: 19px;
+    padding: 8px;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.modal-button {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    color: #323f4b;
+    border-radius: 5px;
+    font-family: "Roboto";
+    background-color: #ffffff;
+}
+
+.modal-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #183b56;
+    font-weight: 600;
+}
+
+.modal-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #183b56;
+    font-weight: 400;
+}
+
+.card-modal-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.modal-list-item {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #323f4b;
+}
+
+.modal-span-item {
+    font-weight: bold;
+}
+
+.card-bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+}
+
+.anchore-element {
+    font-family: "Roboto";
+    color: #ff9f00;
+}
+
+.offers-background-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.offers-heading {
+    font-family: "Bree serif";
+    font-size: 32px;
+    color: #ad2167;
+    font-weight: 500;
+}
+
+.offers-description {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.offers-element {
+    font-weight: bold;
+}
+
+..trending-blogs-main-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.trending-blogs-card-1 {
+    margin: 10px;
+    border-radius: 3px;
+}
+
+.trending-blogs-small-desc {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.trending-blogs-in-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+    color: #183b56;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.trending-blogs-in-desc {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #959ead;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.trending-blogs-element {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding-left: 15px;
+
+}
+
+.explore-section-bg-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.explore-sectionoffers-heading {
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.explore-offers-card-container {
+    border-style: none;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.explore-card-heading {
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.explore-offers-image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.explore-image-name {
+
+    font-family: "Roboto";
+    color: #1f2933;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.explore-card-container {
+    padding: 10px;
+}
+
+.explore-more {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.appaliance-image {
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.footer-section-bg {
+    background-color: #0d2436;
+}
+
+.footer-image {
+    height: 60px;
+    width: 150px;
+}
+
+.footer-logo-container {
+    padding: 10px;
+}
+
+.logo-center-container {
+    height: 50px;
+    width: 50px;
+    background-color: #152c3e;
+    border-radius: 30px;
+    padding: 8px;
+    margin: 10px;
+    padding-top: 12px;
+}
+
+.logo-still {
+    color: #5a7184;
+    font-size: 26px;
+}
+
+.footer-address {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.remaining-container {
+    padding: 5px;
+}
+
+.remaining-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.remaining-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.copy-right-logo {
+    font-size: 19px;
+    color: #5a7184;
+}
+
+.copy-right-span {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
